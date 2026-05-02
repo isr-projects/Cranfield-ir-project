@@ -1,6 +1,13 @@
 # Cranfield-ir-project# Cranfield Information Retrieval System
 
-## Group Assignment
+## ISR Group Assignment Section 2
+
+# Group Members
+Nahom Meki UGR/9179/17
+Tewodros Beshah UGR/4345/17
+Temesgen Yohannes UGR/4291/17
+Feyisa Gezahegn UGR/4624/17
+Abel Tilahun UGR/9357/15
 
 This project demonstrates a simple Information Retrieval (IR) system using the Cranfield dataset.
 
